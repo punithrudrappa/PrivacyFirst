@@ -57,3 +57,9 @@ List of things that you can do to save yourself from being tracked. Following li
 4. Mail: ProtonMail
 5. PasswordManager: Bitwarden
 6. Email aliasing: Simplelogin
+
+
+## Resources
+1. Techlore https://techlore.tech/resources
+2. https://gitlab.com/leos1/leos-wiki/-/wikis/Alternative-apps
+3. https://www.xda-developers.com/find-foss-alternatives-to-google-apps/
