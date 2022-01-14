@@ -1,5 +1,5 @@
 # PrivacyFirst
-List of things that you can do to save yourself from being tracked. Following listed things are all free.
+List of things that you can do to save yourself from being tracked. Following listed things are all free. Use F-Droid or aurorastore to download these apps.
 
 ## Android
 
